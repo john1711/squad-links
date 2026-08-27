@@ -1,7 +1,7 @@
 {
-  "name": "six-degrees-of-football-server",
+  "name": "squad-links-server",
   "version": "1.0.0",
-  "description": "Express + CognoDB (openCypher/Bolt) backend for the Six Degrees of Football app",
+  "description": "Express + CognoDB (openCypher/Bolt) backend for the Squad Links app",
   "type": "module",
   "main": "src/server.js",
   "scripts": {

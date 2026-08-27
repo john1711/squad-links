@@ -1,6 +1,7 @@
 // The flagship query: shortest path of teammate relationships between two
-// players - "six degrees of football". A variable-length shortest-path
-// search like this is exactly what graph databases are for: in SQL it
+// players - the shortest chain of shared dressing rooms linking them. A
+// variable-length shortest-path search like this is exactly what graph
+// databases are for: in SQL it
 // means a recursive CTE with manual cycle detection and no way to stop
 // early once the shortest path is found, and it gets slower with every
 // added hop. Here it's one line, and CognoDB stops as soon as the

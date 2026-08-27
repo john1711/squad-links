@@ -1,4 +1,4 @@
-# Six Degrees of Football
+# Squad Links
 
 A graph-database app for exploring footballers, clubs and managers — and for answering the
 question every football argument eventually needs: **how many teammates apart are two players?**

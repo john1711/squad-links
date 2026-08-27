@@ -9,7 +9,7 @@ export default function Navbar() {
           <span className="brand-mark" aria-hidden="true">
             ⚽
           </span>
-          <span className="brand-name">Six Degrees of Football</span>
+          <span className="brand-name">Squad Links</span>
         </Link>
         <nav className="navbar-links">
           <NavLink to="/connections" className={({ isActive }) => (isActive ? 'active' : '')}>
