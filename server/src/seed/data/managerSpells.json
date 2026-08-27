@@ -1,0 +1,34 @@
+[
+  { "managerId": "guardiola", "clubId": "barcelona", "from": "2008-06-01", "to": "2012-06-01" },
+  { "managerId": "guardiola", "clubId": "bayern", "from": "2013-07-01", "to": "2016-06-01" },
+  { "managerId": "guardiola", "clubId": "man-city", "from": "2016-07-01", "to": null },
+
+  { "managerId": "mourinho", "clubId": "porto", "from": "2002-01-01", "to": "2004-06-01" },
+  { "managerId": "mourinho", "clubId": "chelsea", "from": "2004-06-01", "to": "2007-09-01" },
+  { "managerId": "mourinho", "clubId": "inter-milan", "from": "2008-06-01", "to": "2010-06-01" },
+  { "managerId": "mourinho", "clubId": "real-madrid", "from": "2010-06-01", "to": "2013-06-01" },
+  { "managerId": "mourinho", "clubId": "chelsea", "from": "2013-06-01", "to": "2015-12-01" },
+  { "managerId": "mourinho", "clubId": "man-utd", "from": "2016-05-01", "to": "2018-12-01" },
+  { "managerId": "mourinho", "clubId": "tottenham", "from": "2019-11-01", "to": "2021-04-01" },
+  { "managerId": "mourinho", "clubId": "roma", "from": "2021-07-01", "to": "2024-01-01" },
+
+  { "managerId": "ancelotti", "clubId": "ac-milan", "from": "2001-11-01", "to": "2009-06-01" },
+  { "managerId": "ancelotti", "clubId": "chelsea", "from": "2009-07-01", "to": "2011-05-01" },
+  { "managerId": "ancelotti", "clubId": "psg", "from": "2011-12-01", "to": "2013-06-01" },
+  { "managerId": "ancelotti", "clubId": "real-madrid", "from": "2013-06-01", "to": "2015-06-01" },
+  { "managerId": "ancelotti", "clubId": "bayern", "from": "2016-07-01", "to": "2017-09-01" },
+  { "managerId": "ancelotti", "clubId": "real-madrid", "from": "2021-06-01", "to": null },
+
+  { "managerId": "ferguson", "clubId": "man-utd", "from": "1986-11-01", "to": "2013-05-01" },
+
+  { "managerId": "zidane", "clubId": "real-madrid", "from": "2016-01-01", "to": "2018-05-01" },
+  { "managerId": "zidane", "clubId": "real-madrid", "from": "2019-03-01", "to": "2021-05-01" },
+
+  { "managerId": "luis-enrique", "clubId": "barcelona", "from": "2014-06-01", "to": "2017-06-01" },
+  { "managerId": "luis-enrique", "clubId": "psg", "from": "2023-07-01", "to": null },
+
+  { "managerId": "conte", "clubId": "juventus", "from": "2011-05-01", "to": "2014-07-01" },
+  { "managerId": "conte", "clubId": "chelsea", "from": "2016-07-01", "to": "2018-07-01" },
+  { "managerId": "conte", "clubId": "inter-milan", "from": "2019-06-01", "to": "2021-05-01" },
+  { "managerId": "conte", "clubId": "tottenham", "from": "2021-11-01", "to": "2023-03-01" }
+]

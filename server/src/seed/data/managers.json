@@ -1,0 +1,9 @@
+[
+  { "id": "guardiola", "name": "Pep Guardiola", "nationalityId": "es" },
+  { "id": "mourinho", "name": "José Mourinho", "nationalityId": "pt" },
+  { "id": "ancelotti", "name": "Carlo Ancelotti", "nationalityId": "it" },
+  { "id": "ferguson", "name": "Sir Alex Ferguson", "nationalityId": "sct" },
+  { "id": "zidane", "name": "Zinedine Zidane", "nationalityId": "fr" },
+  { "id": "luis-enrique", "name": "Luis Enrique", "nationalityId": "es" },
+  { "id": "conte", "name": "Antonio Conte", "nationalityId": "it" }
+]

@@ -1,0 +1,10 @@
+[
+  { "id": "laliga", "name": "La Liga", "countryId": "es", "tier": 1 },
+  { "id": "premier-league", "name": "Premier League", "countryId": "en", "tier": 1 },
+  { "id": "serie-a", "name": "Serie A", "countryId": "it", "tier": 1 },
+  { "id": "ligue-1", "name": "Ligue 1", "countryId": "fr", "tier": 1 },
+  { "id": "bundesliga", "name": "Bundesliga", "countryId": "de", "tier": 1 },
+  { "id": "saudi-pro-league", "name": "Saudi Pro League", "countryId": "sa", "tier": 1 },
+  { "id": "mls", "name": "MLS", "countryId": "us", "tier": 1 },
+  { "id": "primeira-liga", "name": "Primeira Liga", "countryId": "pt", "tier": 1 }
+]

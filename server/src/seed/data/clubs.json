@@ -1,0 +1,22 @@
+[
+  { "id": "real-madrid", "name": "Real Madrid", "countryId": "es", "founded": 1902, "competitionIds": ["laliga"] },
+  { "id": "barcelona", "name": "FC Barcelona", "countryId": "es", "founded": 1899, "competitionIds": ["laliga"] },
+  { "id": "man-utd", "name": "Manchester United", "countryId": "en", "founded": 1878, "competitionIds": ["premier-league"] },
+  { "id": "man-city", "name": "Manchester City", "countryId": "en", "founded": 1880, "competitionIds": ["premier-league"] },
+  { "id": "chelsea", "name": "Chelsea", "countryId": "en", "founded": 1905, "competitionIds": ["premier-league"] },
+  { "id": "tottenham", "name": "Tottenham Hotspur", "countryId": "en", "founded": 1882, "competitionIds": ["premier-league"] },
+  { "id": "liverpool", "name": "Liverpool", "countryId": "en", "founded": 1892, "competitionIds": ["premier-league"] },
+  { "id": "juventus", "name": "Juventus", "countryId": "it", "founded": 1897, "competitionIds": ["serie-a"] },
+  { "id": "ac-milan", "name": "AC Milan", "countryId": "it", "founded": 1899, "competitionIds": ["serie-a"] },
+  { "id": "inter-milan", "name": "Inter Milan", "countryId": "it", "founded": 1908, "competitionIds": ["serie-a"] },
+  { "id": "roma", "name": "AS Roma", "countryId": "it", "founded": 1927, "competitionIds": ["serie-a"] },
+  { "id": "psg", "name": "Paris Saint-Germain", "countryId": "fr", "founded": 1970, "competitionIds": ["ligue-1"] },
+  { "id": "monaco", "name": "AS Monaco", "countryId": "fr", "founded": 1924, "competitionIds": ["ligue-1"] },
+  { "id": "bayern", "name": "Bayern Munich", "countryId": "de", "founded": 1900, "competitionIds": ["bundesliga"] },
+  { "id": "dortmund", "name": "Borussia Dortmund", "countryId": "de", "founded": 1909, "competitionIds": ["bundesliga"] },
+  { "id": "al-nassr", "name": "Al Nassr", "countryId": "sa", "founded": 1955, "competitionIds": ["saudi-pro-league"] },
+  { "id": "al-hilal", "name": "Al Hilal", "countryId": "sa", "founded": 1957, "competitionIds": ["saudi-pro-league"] },
+  { "id": "inter-miami", "name": "Inter Miami CF", "countryId": "us", "founded": 2018, "competitionIds": ["mls"] },
+  { "id": "sporting-cp", "name": "Sporting CP", "countryId": "pt", "founded": 1906, "competitionIds": ["primeira-liga"] },
+  { "id": "porto", "name": "FC Porto", "countryId": "pt", "founded": 1893, "competitionIds": ["primeira-liga"] }
+]

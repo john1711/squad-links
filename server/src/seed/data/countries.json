@@ -1,0 +1,23 @@
+[
+  { "id": "pt", "name": "Portugal" },
+  { "id": "ar", "name": "Argentina" },
+  { "id": "br", "name": "Brazil" },
+  { "id": "fr", "name": "France" },
+  { "id": "es", "name": "Spain" },
+  { "id": "en", "name": "England" },
+  { "id": "de", "name": "Germany" },
+  { "id": "hr", "name": "Croatia" },
+  { "id": "it", "name": "Italy" },
+  { "id": "sa", "name": "Saudi Arabia" },
+  { "id": "us", "name": "United States" },
+  { "id": "se", "name": "Sweden" },
+  { "id": "ci", "name": "Ivory Coast" },
+  { "id": "cz", "name": "Czech Republic" },
+  { "id": "be", "name": "Belgium" },
+  { "id": "wa", "name": "Wales" },
+  { "id": "pl", "name": "Poland" },
+  { "id": "uy", "name": "Uruguay" },
+  { "id": "cl", "name": "Chile" },
+  { "id": "no", "name": "Norway" },
+  { "id": "sct", "name": "Scotland" }
+]

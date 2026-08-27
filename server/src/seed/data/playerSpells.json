@@ -1,0 +1,123 @@
+[
+  { "playerId": "ronaldo", "clubId": "sporting-cp", "from": "2002-08-01", "to": "2003-08-01", "appearances": 25, "goals": 3 },
+  { "playerId": "ronaldo", "clubId": "man-utd", "from": "2003-08-01", "to": "2009-07-01", "appearances": 196, "goals": 84 },
+  { "playerId": "ronaldo", "clubId": "real-madrid", "from": "2009-07-01", "to": "2018-07-01", "appearances": 292, "goals": 311 },
+  { "playerId": "ronaldo", "clubId": "juventus", "from": "2018-07-01", "to": "2021-08-01", "appearances": 98, "goals": 81 },
+  { "playerId": "ronaldo", "clubId": "man-utd", "from": "2021-08-01", "to": "2022-11-01", "appearances": 54, "goals": 27 },
+  { "playerId": "ronaldo", "clubId": "al-nassr", "from": "2023-01-01", "to": null, "appearances": 60, "goals": 55 },
+
+  { "playerId": "messi", "clubId": "barcelona", "from": "2004-10-01", "to": "2021-08-01", "appearances": 520, "goals": 474 },
+  { "playerId": "messi", "clubId": "psg", "from": "2021-08-01", "to": "2023-06-01", "appearances": 58, "goals": 32 },
+  { "playerId": "messi", "clubId": "inter-miami", "from": "2023-07-01", "to": null, "appearances": 40, "goals": 35 },
+
+  { "playerId": "neymar", "clubId": "barcelona", "from": "2013-06-01", "to": "2017-08-01", "appearances": 123, "goals": 68 },
+  { "playerId": "neymar", "clubId": "psg", "from": "2017-08-01", "to": "2023-08-01", "appearances": 118, "goals": 91 },
+  { "playerId": "neymar", "clubId": "al-hilal", "from": "2023-08-01", "to": null, "appearances": 10, "goals": 5 },
+
+  { "playerId": "mbappe", "clubId": "monaco", "from": "2015-07-01", "to": "2017-08-01", "appearances": 60, "goals": 27 },
+  { "playerId": "mbappe", "clubId": "psg", "from": "2017-08-01", "to": "2024-07-01", "appearances": 256, "goals": 212 },
+  { "playerId": "mbappe", "clubId": "real-madrid", "from": "2024-07-01", "to": null, "appearances": 30, "goals": 20 },
+
+  { "playerId": "ramos", "clubId": "real-madrid", "from": "2005-08-01", "to": "2021-06-01", "appearances": 469, "goals": 101 },
+  { "playerId": "ramos", "clubId": "psg", "from": "2021-07-01", "to": "2023-06-01", "appearances": 57, "goals": 3 },
+
+  { "playerId": "modric", "clubId": "tottenham", "from": "2008-08-01", "to": "2012-08-01", "appearances": 127, "goals": 15 },
+  { "playerId": "modric", "clubId": "real-madrid", "from": "2012-08-01", "to": null, "appearances": 450, "goals": 25 },
+
+  { "playerId": "kroos", "clubId": "bayern", "from": "2007-08-01", "to": "2014-07-01", "appearances": 169, "goals": 27 },
+  { "playerId": "kroos", "clubId": "real-madrid", "from": "2014-08-01", "to": "2024-06-01", "appearances": 348, "goals": 29 },
+
+  { "playerId": "benzema", "clubId": "real-madrid", "from": "2009-07-01", "to": "2023-06-01", "appearances": 648, "goals": 354 },
+
+  { "playerId": "ibrahimovic", "clubId": "juventus", "from": "2004-08-01", "to": "2006-08-01", "appearances": 69, "goals": 26 },
+  { "playerId": "ibrahimovic", "clubId": "inter-milan", "from": "2006-08-01", "to": "2009-08-01", "appearances": 88, "goals": 57 },
+  { "playerId": "ibrahimovic", "clubId": "barcelona", "from": "2009-08-01", "to": "2010-08-01", "appearances": 29, "goals": 16 },
+  { "playerId": "ibrahimovic", "clubId": "ac-milan", "from": "2010-08-01", "to": "2012-07-01", "appearances": 85, "goals": 56 },
+  { "playerId": "ibrahimovic", "clubId": "psg", "from": "2012-07-01", "to": "2016-06-01", "appearances": 122, "goals": 113 },
+  { "playerId": "ibrahimovic", "clubId": "man-utd", "from": "2016-07-01", "to": "2018-03-01", "appearances": 28, "goals": 17 },
+  { "playerId": "ibrahimovic", "clubId": "ac-milan", "from": "2020-01-01", "to": "2023-06-01", "appearances": 58, "goals": 15 },
+
+  { "playerId": "thiago", "clubId": "barcelona", "from": "2009-07-01", "to": "2013-07-01", "appearances": 86, "goals": 13 },
+  { "playerId": "thiago", "clubId": "bayern", "from": "2013-07-01", "to": "2020-09-01", "appearances": 230, "goals": 15 },
+  { "playerId": "thiago", "clubId": "liverpool", "from": "2020-09-01", "to": "2024-06-01", "appearances": 74, "goals": 3 },
+
+  { "playerId": "carvalho", "clubId": "porto", "from": "2000-07-01", "to": "2004-07-01", "appearances": 95, "goals": 10 },
+  { "playerId": "carvalho", "clubId": "chelsea", "from": "2004-08-01", "to": "2010-07-01", "appearances": 230, "goals": 10 },
+  { "playerId": "carvalho", "clubId": "real-madrid", "from": "2010-08-01", "to": "2012-07-01", "appearances": 55, "goals": 3 },
+  { "playerId": "carvalho", "clubId": "monaco", "from": "2012-08-01", "to": "2015-06-01", "appearances": 60, "goals": 2 },
+
+  { "playerId": "drogba", "clubId": "chelsea", "from": "2004-07-01", "to": "2012-05-01", "appearances": 341, "goals": 157 },
+  { "playerId": "drogba", "clubId": "chelsea", "from": "2014-07-01", "to": "2015-06-01", "appearances": 24, "goals": 5 },
+
+  { "playerId": "lampard", "clubId": "chelsea", "from": "2001-07-01", "to": "2014-06-01", "appearances": 648, "goals": 211 },
+
+  { "playerId": "terry", "clubId": "chelsea", "from": "2000-07-01", "to": "2014-06-01", "appearances": 492, "goals": 38 },
+
+  { "playerId": "cech", "clubId": "chelsea", "from": "2004-07-01", "to": "2015-06-01", "appearances": 494, "goals": 0 },
+
+  { "playerId": "hazard", "clubId": "chelsea", "from": "2012-07-01", "to": "2019-06-01", "appearances": 352, "goals": 110 },
+  { "playerId": "hazard", "clubId": "real-madrid", "from": "2019-07-01", "to": "2023-06-01", "appearances": 76, "goals": 7 },
+
+  { "playerId": "kante", "clubId": "chelsea", "from": "2016-07-01", "to": "2023-06-01", "appearances": 269, "goals": 12 },
+
+  { "playerId": "pirlo", "clubId": "ac-milan", "from": "2001-07-01", "to": "2011-06-01", "appearances": 284, "goals": 29 },
+  { "playerId": "pirlo", "clubId": "juventus", "from": "2011-07-01", "to": "2015-06-01", "appearances": 164, "goals": 19 },
+
+  { "playerId": "buffon", "clubId": "juventus", "from": "2001-07-01", "to": "2018-06-01", "appearances": 509, "goals": 0 },
+  { "playerId": "buffon", "clubId": "psg", "from": "2018-07-01", "to": "2019-06-01", "appearances": 18, "goals": 0 },
+  { "playerId": "buffon", "clubId": "juventus", "from": "2019-07-01", "to": "2021-06-01", "appearances": 17, "goals": 0 },
+
+  { "playerId": "pogba", "clubId": "man-utd", "from": "2009-07-01", "to": "2012-06-01", "appearances": 7, "goals": 0 },
+  { "playerId": "pogba", "clubId": "juventus", "from": "2012-07-01", "to": "2016-07-01", "appearances": 178, "goals": 34 },
+  { "playerId": "pogba", "clubId": "man-utd", "from": "2016-08-01", "to": "2022-06-01", "appearances": 233, "goals": 39 },
+  { "playerId": "pogba", "clubId": "juventus", "from": "2022-07-01", "to": "2024-01-01", "appearances": 14, "goals": 0 },
+
+  { "playerId": "di-maria", "clubId": "real-madrid", "from": "2010-08-01", "to": "2014-08-01", "appearances": 190, "goals": 22 },
+  { "playerId": "di-maria", "clubId": "man-utd", "from": "2014-08-01", "to": "2015-08-01", "appearances": 32, "goals": 3 },
+  { "playerId": "di-maria", "clubId": "psg", "from": "2015-08-01", "to": "2020-08-01", "appearances": 206, "goals": 42 },
+  { "playerId": "di-maria", "clubId": "juventus", "from": "2022-07-01", "to": "2023-06-01", "appearances": 31, "goals": 6 },
+
+  { "playerId": "bale", "clubId": "tottenham", "from": "2007-08-01", "to": "2013-08-01", "appearances": 203, "goals": 55 },
+  { "playerId": "bale", "clubId": "real-madrid", "from": "2013-08-01", "to": "2022-06-01", "appearances": 258, "goals": 106 },
+
+  { "playerId": "xabi-alonso", "clubId": "liverpool", "from": "2004-08-01", "to": "2009-08-01", "appearances": 210, "goals": 15 },
+  { "playerId": "xabi-alonso", "clubId": "real-madrid", "from": "2009-08-01", "to": "2014-08-01", "appearances": 236, "goals": 13 },
+  { "playerId": "xabi-alonso", "clubId": "bayern", "from": "2014-08-01", "to": "2017-06-01", "appearances": 91, "goals": 3 },
+
+  { "playerId": "lewandowski", "clubId": "bayern", "from": "2014-07-01", "to": "2022-07-01", "appearances": 375, "goals": 344 },
+  { "playerId": "lewandowski", "clubId": "barcelona", "from": "2022-07-01", "to": null, "appearances": 150, "goals": 90 },
+
+  { "playerId": "coutinho", "clubId": "liverpool", "from": "2013-01-01", "to": "2018-01-01", "appearances": 201, "goals": 54 },
+  { "playerId": "coutinho", "clubId": "barcelona", "from": "2018-01-01", "to": "2020-08-01", "appearances": 76, "goals": 15 },
+
+  { "playerId": "suarez", "clubId": "liverpool", "from": "2011-01-01", "to": "2014-07-01", "appearances": 133, "goals": 82 },
+  { "playerId": "suarez", "clubId": "barcelona", "from": "2014-07-01", "to": "2020-09-01", "appearances": 283, "goals": 198 },
+  { "playerId": "suarez", "clubId": "inter-miami", "from": "2024-01-01", "to": null, "appearances": 35, "goals": 15 },
+
+  { "playerId": "sanchez", "clubId": "barcelona", "from": "2011-07-01", "to": "2014-07-01", "appearances": 94, "goals": 47 },
+  { "playerId": "sanchez", "clubId": "man-utd", "from": "2019-01-01", "to": "2019-08-01", "appearances": 5, "goals": 0 },
+  { "playerId": "sanchez", "clubId": "inter-milan", "from": "2019-08-01", "to": "2022-07-01", "appearances": 85, "goals": 7 },
+
+  { "playerId": "casemiro", "clubId": "real-madrid", "from": "2013-07-01", "to": "2022-08-01", "appearances": 334, "goals": 26 },
+  { "playerId": "casemiro", "clubId": "man-utd", "from": "2022-08-01", "to": null, "appearances": 86, "goals": 8 },
+
+  { "playerId": "verratti", "clubId": "psg", "from": "2012-08-01", "to": "2023-08-01", "appearances": 416, "goals": 18 },
+
+  { "playerId": "marquinhos", "clubId": "roma", "from": "2012-08-01", "to": "2013-07-01", "appearances": 10, "goals": 0 },
+  { "playerId": "marquinhos", "clubId": "psg", "from": "2013-07-01", "to": null, "appearances": 350, "goals": 25 },
+
+  { "playerId": "bruno-fernandes", "clubId": "man-utd", "from": "2020-01-01", "to": null, "appearances": 250, "goals": 80 },
+
+  { "playerId": "kane", "clubId": "tottenham", "from": "2011-08-01", "to": "2023-08-01", "appearances": 435, "goals": 280 },
+  { "playerId": "kane", "clubId": "bayern", "from": "2023-08-01", "to": null, "appearances": 60, "goals": 55 },
+
+  { "playerId": "haaland", "clubId": "man-city", "from": "2022-07-01", "to": null, "appearances": 110, "goals": 110 },
+
+  { "playerId": "vinicius", "clubId": "real-madrid", "from": "2018-07-01", "to": null, "appearances": 270, "goals": 110 },
+
+  { "playerId": "bellingham", "clubId": "dortmund", "from": "2020-07-01", "to": "2023-07-01", "appearances": 132, "goals": 24 },
+  { "playerId": "bellingham", "clubId": "real-madrid", "from": "2023-07-01", "to": null, "appearances": 55, "goals": 28 },
+
+  { "playerId": "beckham", "clubId": "man-utd", "from": "1992-07-01", "to": "2003-07-01", "appearances": 394, "goals": 85 },
+  { "playerId": "beckham", "clubId": "real-madrid", "from": "2003-07-01", "to": "2007-07-01", "appearances": 159, "goals": 20 }
+]
