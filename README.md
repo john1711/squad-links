@@ -245,6 +245,21 @@ Visit `http://localhost:5173`. Try the featured pairs on the home page, or searc
 
 ## Deployment
 
-- **Backend:** `<TODO: fill in hosted URL, e.g. Render/Railway>`
-- **Frontend:** `<TODO: fill in hosted URL, e.g. Vercel/Netlify>`
+The app has no hard dependency on any specific host — both halves are configured entirely through
+env vars, so any free tier works (Render/Railway/Fly for the API, Vercel/Netlify for the frontend).
+
+- **Backend:** deploy `server/` as a Node web service.
+  - Start command: `npm start` (runs `node src/server.js`)
+  - Required env vars: `COGNODB_URI`, `COGNODB_USER`, `COGNODB_PASSWORD`
+  - Set `CLIENT_ORIGIN` to your deployed frontend's URL (for CORS)
+  - Run `npm run seed` once (locally, or as a one-off job) against the same CognoDB instance before
+    going live
+- **Frontend:** deploy `client/` as a static site.
+  - Build command: `npm run build` → output directory `dist/`
+  - Required env var (set at build time): `VITE_API_URL` = your deployed backend's URL
+
+Live links, once deployed:
+
+- **Backend:** `<TODO: fill in hosted URL>`
+- **Frontend:** `<TODO: fill in hosted URL>`
 - **Screen recording:** `<TODO: link>`
