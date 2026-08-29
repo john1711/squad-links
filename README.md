@@ -260,8 +260,8 @@ env vars, so any free tier works (Render/Railway/Fly for the API, Vercel/Netlify
   - Build command: `npm run build` → output directory `dist/`
   - Required env var (set at build time): `VITE_API_URL` = your deployed backend's URL
 
-Live links, once deployed:
+Live links:
 
-- **Backend:** `<TODO: fill in hosted URL>`
-- **Frontend:** `<TODO: fill in hosted URL>`
+- **Backend:** https://squad-links-api.onrender.com
+- **Frontend:** https://squad-links-one.vercel.app
 - **Screen recording:** `<TODO: link>`
