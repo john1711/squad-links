@@ -264,4 +264,4 @@ Live links:
 
 - **Backend:** https://squad-links-api.onrender.com
 - **Frontend:** https://squad-links-one.vercel.app
-- **Screen recording:** `<TODO: link>`
+- **Screen recording:** https://drive.google.com/drive/folders/1vWzCOTX2yG4gZUXjitAvZhvYTrAwUSwP?usp=share_link
