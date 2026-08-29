@@ -1,5 +1,7 @@
 # Squad Links
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A graph-database app for exploring footballers, clubs and managers — and for answering the
 question every football argument eventually needs: **how many teammates apart are two players?**
 
